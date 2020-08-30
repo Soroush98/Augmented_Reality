@@ -2,7 +2,7 @@
 A simple Augmented reality project that adds rain or snow effect with respect to moving parts of Background.
 ## Algorithm
 It uses webcam as live feed or a recorded video as input and shows the added effects in real time.
-MOG2 algorithm vas used to detect the moving parts of background , then rain drops or snow balls will slip on the surface of moving parts of background.
+MOG2 algorithm was used to detect the moving parts of background , then rain drops or snow balls will slip on the surface of moving parts of background.
 OpenCV library was used for background detection and adding effects.
 
 ## Usage
