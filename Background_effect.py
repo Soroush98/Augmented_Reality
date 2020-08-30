@@ -4,6 +4,7 @@ import time
 from math import sqrt
 import  random
 from math import ceil,floor
+
 # get captures
 cap = cv2.VideoCapture(0)
 background_capture = cv2.VideoCapture('test.mp4')
