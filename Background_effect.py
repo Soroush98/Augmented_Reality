@@ -1,7 +1,6 @@
 import cv2
 import numpy as np
 import time
-from PIL import  Image
 from math import sqrt
 import  random
 from math import ceil,floor
